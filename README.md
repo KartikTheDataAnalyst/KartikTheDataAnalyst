@@ -1,7 +1,7 @@
 <img  alt="Coding" height="20%" width="100%" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_MiniTab.jpg">
 <h1 align="center">Hi 👋, I'm Kartik Pattar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/006/371/640/non_2x/person-with-chart-flat-icon-of-statistician-vector.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.cfrinc.net/hubfs/data%20analysis%20techniques%20for%20market%20research.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikthedataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="kartikthedataanalyst" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kartikrp11" target="blank"><img src="https://img.shields.io/twitter/follow/@kartikrp11?logo=twitter&style=for-the-badge" alt="@kartikrp11" /></a> </p>
